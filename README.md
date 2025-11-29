@@ -1,4 +1,4 @@
-# Downloads 1.0
+# Downloads 1.0.1
 
 Easily add a download to your page using a simple to use shortcode.
 
@@ -20,6 +20,17 @@ Multiple files:
 ```
 [download filename.zip another.zip]
 ```
+
+## Customization
+Apply CSS to `p.download-item` and `p.download-item a` to customize the fonts and colors.
+Other tags used inside the paragraph are `small` and `strong`.
+
+## Changelog:
+
+1.0.1 - 2025-11-28
+* Updated - indentation
+* i18n - Language tags for english
+* Fix - File header comment
 
 ## How to install an extension
 
